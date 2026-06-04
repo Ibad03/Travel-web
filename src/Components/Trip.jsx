@@ -1,6 +1,6 @@
 import React from 'react'
 import Steps from './Steps'
-import img1 from '../assets/Destination.png'
+import img1 from '../assets/destination.png'
 import img2 from '../assets/payment.png'
 import img3 from '../assets/airport.png'
 import img4 from '../assets/trip.png'

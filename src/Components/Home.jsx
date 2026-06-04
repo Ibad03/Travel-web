@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 import decor from '../assets/Decore.png'
-import heroimg from '../assets/heroimg.png'
+import heroimg from '../assets/Heroimg.png'
 const Home = () => {
   return (
     <div className='bg-cover min-h-screen bg-fixed bg-center' style={
